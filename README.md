@@ -6,4 +6,4 @@ It can realizes handwritten character recognition system, using basic Back Propa
 
 I know that there are already a lot of software that can accomplish the above tasks relatively quickly. But I want to learn about the basic theory about how to realize a neural network model, about the Basic mathematical algorithm logic behind. There are also many different kinds of Neural network algorithm to fit in different kinds of tasks. My goal is to know if I can use different algorithm to solve the same question, and to Explain the differences between the various algorithms if it goes well.
 
-https://www.zybuluo.com/hanbingtao/note/433855
+![](http://upload-images.jianshu.io/upload_images/2256672-c6f640c11a06ac2e.png)
